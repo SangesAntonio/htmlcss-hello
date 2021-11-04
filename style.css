@@ -1,8 +1,13 @@
+body{
+    background-color: black;
+}
+
 .container-title{
     width: 80vh;
     height: 50vh;
     margin: auto;
-    background-color:
+    background-color:yellow;
+    border-radius: 20px;
     position: absolute;
     right: 50%;
     bottom: 50%;
@@ -19,4 +24,3 @@
     color: grey;
     border-bottom: 1px solid gray;  
 }
-
