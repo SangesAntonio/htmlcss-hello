@@ -1,6 +1,12 @@
 .title{
     font-size: 60px;
     position: absolute;
-    left: 50%;
-    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%,50%);
+    font-family: 'Open Sans', sans-serif;
+    color: grey;
+    border-bottom: 1px solid gray;
+    
+    
 }
